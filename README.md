@@ -1,2 +1,2 @@
-Hello, world! I am new ti Git and Github
+Hello, world! I am new to Git and Github
 
